@@ -1,2 +1,2 @@
 # hyperion-mojave
- SDL-Hercules-390 built for macOS
+ SDL-Hercules-390 pre-built for macOS
